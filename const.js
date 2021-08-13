@@ -9,14 +9,14 @@ const text1 = `
 1 text for check submit and <a href="https://www.youtube.com">Youtube</a>
 `
 const text2 = `
-2 text for check submit and <a href="https://www.google.com/">Youtube</a>
+2 text for check submit and <a href="https://www.google.com/">google</a>
 `
 const text3 = `
-3 text for check submit and <a href="https://www.duolingo.com">Youtube</a>
+3 text for check submit and <a href="https://www.duolingo.com">dolingo</a>
 `
 
 const text4 = `
-4 text for check submit and <a href="https://www.facebook.com/">Youtube</a>
+4 text for check submit and <a href="https://www.facebook.com/">Facebook</a>
 `
 
 module.exports.commands = commands
