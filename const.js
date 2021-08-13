@@ -3,6 +3,7 @@ const commands = `
 /help - Help
 /linkedin - https://www.linkedin.com/in/viktor-petrenko-a62475141/
 /github - https://github.com/Hatenkou
+/testBtn - test menu
 `
 const text1 = `
 1 text for check submit and <a href="https://www.youtube.com">Youtube</a>
